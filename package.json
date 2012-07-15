@@ -1,6 +1,6 @@
 {
   "name": "response-redirect",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "response.redirect() prototype method",
   "keywords": ["http", "connect", "express"],
   "repository": {
